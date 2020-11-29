@@ -12,7 +12,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
 	<img src="https://www.software-architects.com/content/images/blog/2016/12/typescript-logo.png" width="50" height="50"/>
 	<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnodejs-logo-FBE122E377-seeklogo.com.png&f=1&nofb=1" width="50" height="50"/>
 	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"/>
-	<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" height="50"/>
+	<img src="https://i.imgur.com/QbSM4UT.png" height="50"/>
 	<img src="https://i.imgur.com/4ykDXUE.png" height="50"/>
 </div>
 
