@@ -11,9 +11,9 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
 	<img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" width="50" height="50"/>
 	<img src="https://www.software-architects.com/content/images/blog/2016/12/typescript-logo.png" width="50" height="50"/>
 	<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnodejs-logo-FBE122E377-seeklogo.com.png&f=1&nofb=1" width="50" height="50"/>
-	<img src="https://banner2.cleanpng.com/20180531/qfb/kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9.960696831527800102428.jpg" width="50" height="50"/>
+	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"/>
 	<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" height="50"/>
-	<img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png" height="50"/>
+	<img src="https://i.imgur.com/4ykDXUE.png" height="50"/>
 </div>
 
 ## 🔭 I'm currently working on
