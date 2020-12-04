@@ -26,6 +26,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
 
 - Docker to allow my applications to be scalable
 - React-Native
+- GraphQL
 - PHP
 
 ## ⚡GitHub Stats
