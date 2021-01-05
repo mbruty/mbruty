@@ -24,10 +24,9 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
   
  ## 🌱 I'm currently Learning
 
-- Docker to allow my applications to be scalable
-- React-Native
 - GraphQL
-- PHP
+- GoLang
+- iOS Swift UI
 
 ## ⚡GitHub Stats
 <!-- Stats -->
