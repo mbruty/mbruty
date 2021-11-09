@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael!
 
-I'm a dedicated web and mobile developer, mainly using React, React Native and TypeScript for this. My main focus is Front-End developemnt, designing good looking and intuitive UI's and devliering an amazing UX.
+I am a general C# developer, honing skills in UI/UX and teaching myself native mobile app development
 
 ## Languages and Technologies
 
@@ -18,15 +18,15 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
 
 ## 🔭 I'm currently working on
 
-- Restaurant reccomender system (Group Project) - Front-End Lead
-- StarWars Galaxy of Heros guild inspector - Project is completed, just adding extra features from User's requests
+- Restaurant recommender using Kotlin (KTOR) with a neo4j database
+- iOS App for the recommender in SwiftUI
   
   
  ## 🌱 I'm currently Learning
 
-- GraphQL
-- GoLang
-- iOS Swift UI
+- Kotlin
+- Swift
+- Graph databases
 
 ## ⚡GitHub Stats
 <!-- Stats -->
